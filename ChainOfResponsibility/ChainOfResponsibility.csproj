@@ -45,6 +45,11 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Structure\Agent.cs" />
+    <Compile Include="Structure\FirstLevelAgent.cs" />
+    <Compile Include="Structure\SecondLevelAgent.cs" />
+    <Compile Include="Structure\ThirdLevelAgent.cs" />
+    <Compile Include="Ticket.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
