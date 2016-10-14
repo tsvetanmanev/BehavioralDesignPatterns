@@ -53,6 +53,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="CodeMap-CoR.dgml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CodeMap-CoR.JPG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
