@@ -16,7 +16,7 @@ namespace ChainOfResponsibility.Structure
             }
             else
             {
-                Console.WriteLine("Ticket ID {0} escalated to management", ticket.ID);
+                Console.WriteLine("Ticket ID {0} is too hard. Escalated to management", ticket.ID);
             }
         }
     }
